@@ -1,0 +1,11 @@
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\bin\Debug\netcoreapp2.1\Lab 4 - PowerTable.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\bin\Debug\netcoreapp2.1\Lab 4 - PowerTable.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\bin\Debug\netcoreapp2.1\Lab 4 - PowerTable.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\bin\Debug\netcoreapp2.1\Lab 4 - PowerTable.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\bin\Debug\netcoreapp2.1\Lab 4 - PowerTable.pdb
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\obj\Debug\netcoreapp2.1\Lab 4 - PowerTable.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\obj\Debug\netcoreapp2.1\Lab 4 - PowerTable.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\obj\Debug\netcoreapp2.1\Lab 4 - PowerTable.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\obj\Debug\netcoreapp2.1\Lab 4 - PowerTable.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\obj\Debug\netcoreapp2.1\Lab 4 - PowerTable.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab 4 - PowerTable\Lab 4 - PowerTable\obj\Debug\netcoreapp2.1\Lab 4 - PowerTable.pdb
